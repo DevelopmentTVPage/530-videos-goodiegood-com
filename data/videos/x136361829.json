@@ -1,0 +1,102 @@
+{
+    "title": "Mr. Coffee\u00ae Espresso Maker -  Making Capuccino & Latte",
+    "description": "Make espresso, cappuccino and lattes like a true barista. The Mr. Coffee\u00ae Caf\u00e9 Espresso uses a 15-bar pump system that brews rich, creme-topped espresso with impressive results and milk froth for creamy cappuccinos and lattes.",
+    "referenceId": "67ebad18885b913841d2992e0ecad419",
+    "date_created": "1515023042",
+    "date_modified": "1515023388",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136361829",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Mr-Coffee-Espresso-Maker-Making-Capuccino-Latte-mp4",
+    "category": "",
+    "duration": "68",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "68",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "68",
+        "prettyDuration": "00:01:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136361829\/d138b\/thumb-67ebad18885b913841d2992e0ecad419-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136361829\/d138b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136361829\/d138b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361829\/d138b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361829\/d138b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361829\/d138b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361829\/d138b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361829\/d138b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-07"
+        }
+    },
+    "tvp_profiles": [
+        "14",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 4712.491,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1898"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 865.1143
+}

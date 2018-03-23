@@ -1,0 +1,58 @@
+{
+    "title": "Nike Air Slam Dunk",
+    "description": "Caution: May Cause Excessive Performance",
+    "referenceId": "nQXX-z8VVc4",
+    "date_created": "1271443550",
+    "date_modified": "1515460410",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136909145",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Nike-Air-Slam-Dunk",
+    "category": "",
+    "duration": 24,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/nQXX-z8VVc4\/sddefault.jpg",
+        "uploadDate": 1271443550,
+        "videoId": "nQXX-z8VVc4",
+        "title": "Nike Air Slam Dunk",
+        "description": "Caution: May Cause Excessive Performance",
+        "author": "Nike",
+        "mediaDuration": 24,
+        "prettyDuration": "00:00:24",
+        "views": "154290"
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-02-03"
+        }
+    },
+    "tvp_profiles": [
+        "25",
+        "31",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 72.43769,
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": [
+        "2374"
+    ],
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": ""
+}

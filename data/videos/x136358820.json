@@ -1,0 +1,98 @@
+{
+    "title": "Making a Mochaccino with the Ninja Coffee Bar\u2122",
+    "description": "Greg shows you how easy it is to make a delicious mochaccino, just one of Ninja\u2019s many frozen blended specialty drinks.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+    "referenceId": "693b9e25cdbe71f5c0644000ba6fc037",
+    "date_created": "1515021625",
+    "date_modified": "1515022137",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136358820",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Making-a-Mochaccino-with-the-Ninja-Coffee-Bar-mp4",
+    "category": "",
+    "duration": "130",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "130",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "130",
+        "prettyDuration": "00:02:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136358820\/b6e01\/thumb-693b9e25cdbe71f5c0644000ba6fc037-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136358820\/b6e01\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136358820\/b6e01\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358820\/b6e01\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358820\/b6e01\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358820\/b6e01\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358820\/b6e01\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358820\/b6e01\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 8606.006,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1898"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 8919.432
+}

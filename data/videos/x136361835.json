@@ -1,0 +1,99 @@
+{
+    "title": "How To- Calibrate the Burr Grinder- KitchenAid",
+    "description": "See how espresso or French press aficionados can adjust the factory settings of the Burr Coffee Grinder according to their preferences. Shop now: http:\/\/kitchen.ai\/UU5T0",
+    "referenceId": "8ca6cb1fec17d539e91ff39184babe95",
+    "date_created": "1515023081",
+    "date_modified": "1515023794",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136361835",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "How-To-Calibrate-the-Burr-Grinder-KitchenAid-mp4",
+    "category": "",
+    "duration": "110",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "110",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "110",
+        "prettyDuration": "00:01:50",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136361835\/8ba98\/thumb-8ca6cb1fec17d539e91ff39184babe95-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136361835\/8ba98\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136361835\/8ba98\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361835\/8ba98\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361835\/8ba98\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361835\/8ba98\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361835\/8ba98\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361835\/8ba98\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "11",
+        "9"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 504.76453,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1898"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 486.14218
+}

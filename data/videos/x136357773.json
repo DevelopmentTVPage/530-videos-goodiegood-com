@@ -1,0 +1,99 @@
+{
+    "title": "Gourmia GCM3500 Digital Siphon Artisanal Coffee Machine",
+    "description": "Gourmia GCM3500 Digital Siphon Artisanal Coffee Machine - Pedestal Display Touch LCD Control With Automatic & Manual Brewing Functions, Bold Flavor\nhttps:\/\/www.amazon.com\/Gourmia-GCM3500-Digital-Artisinal-Machine\/dp\/B01M5I9G",
+    "referenceId": "65d01e87af3bba370cf3ebbd0d0d3d2f",
+    "date_created": "1515013662",
+    "date_modified": "1515017075",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136357773",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Gourmia-GCM3500-Digital-Siphon-Artisanal-Coffee-Machine-mp4",
+    "category": "",
+    "duration": "141",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "141",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "141",
+        "prettyDuration": "00:02:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357773\/20f35\/thumb-65d01e87af3bba370cf3ebbd0d0d3d2f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136357773\/20f35\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357773\/20f35\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357773\/20f35\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357773\/20f35\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357773\/20f35\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357773\/20f35\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357773\/20f35\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "11",
+        "30",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 246.92023,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1937"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 67.02612
+}

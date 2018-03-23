@@ -1,0 +1,60 @@
+{
+    "title": "NIKE CHOSEN - BEHIND THE SCENES - DANNY KASS",
+    "description": "Bla Bla Bla.",
+    "referenceId": "W30axqwBx-Y",
+    "date_created": "1306910855",
+    "date_modified": "1515460775",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "8",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136909135",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "NIKE-CHOSEN-BEHIND-THE-SCENES-DANNY-KASS",
+    "category": "",
+    "duration": 131,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/W30axqwBx-Y\/maxresdefault.jpg",
+        "uploadDate": 1306910855,
+        "videoId": "W30axqwBx-Y",
+        "title": "NIKE CHOSEN - BEHIND THE SCENES - DANNY KASS",
+        "description": "Go behind the scenes with Danny Kass in Aspen.\n\nSee more and find out how your crew could be chosen to live like a pro at http:\/\/www.nike.com\/chosen",
+        "author": "Nike",
+        "mediaDuration": 131,
+        "prettyDuration": "00:02:11",
+        "views": "28989",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-02-03"
+        }
+    },
+    "tvp_profiles": [
+        "22",
+        "11",
+        "19"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 241.4289,
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": [
+        "1864"
+    ],
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": ""
+}

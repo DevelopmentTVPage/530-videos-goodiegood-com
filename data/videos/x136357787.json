@@ -1,0 +1,102 @@
+{
+    "title": "Keurig\u00ae Pick Me Up Commercial - 30s",
+    "description": "Caring for a newborn is never easy. The new Keurig\u00ae K200 Series Brewer can give you a helping hand.",
+    "referenceId": "3b807e90556de9db85561ce10e2854da",
+    "date_created": "1515013770",
+    "date_modified": "1515015948",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136357787",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Keurig-Pick-Me-Up-Commercial-30s-mp4",
+    "category": "",
+    "duration": "30",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "30",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357787\/bd8b7\/thumb-3b807e90556de9db85561ce10e2854da-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136357787\/bd8b7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357787\/bd8b7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357787\/bd8b7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357787\/bd8b7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357787\/bd8b7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357787\/bd8b7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357787\/bd8b7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-02-15"
+        }
+    },
+    "tvp_profiles": [
+        "4",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 576.7398,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1914"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 210.028
+}

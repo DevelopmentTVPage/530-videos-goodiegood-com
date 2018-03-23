@@ -1,0 +1,97 @@
+{
+    "title": "Mr. Coffee\u00ae - Experience the Taste",
+    "description": "For us, bringing a rich coffee experience into your home has always been our obsession.",
+    "referenceId": "7743dec778c76e5cec7a2e7d13674da7",
+    "date_created": "1515013791",
+    "date_modified": "1515026810",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136357790",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Mr-Coffee-Experience-the-Taste-mp4",
+    "category": "",
+    "duration": "52",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "52",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "52",
+        "prettyDuration": "00:00:52",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758799\/canvas\/480\/269\/820464913-046480315.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136357790\/00c5e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357790\/00c5e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357790\/00c5e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357790\/00c5e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357790\/00c5e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357790\/00c5e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357790\/00c5e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 616.3143,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "2124"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 153.18378
+}

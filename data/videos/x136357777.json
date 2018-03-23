@@ -1,0 +1,98 @@
+{
+    "title": "Hamilton Beach Easy Access Programmable Coffee Maker 46300",
+    "description": "Front-access water reservoir & brew basket allow for easy filling\n12 cup capacity\nProgrammable clock with 2 hour automatic shutoff \nBold, regular & 1-4 cup brewing options \nAutomatic pause & serve\nCleaning cycle reminder\nEasy-view water window\nFits Hamilton Beach\u00ae 80674R water filter (sold separately)\nNonstick warming plate\nSwing-out brew basket is easy to fill\nOn\/off light\nNo-mess pouring",
+    "referenceId": "17e4422aeeeae9f76710bd3e17e17a28",
+    "date_created": "1515013720",
+    "date_modified": "1515017021",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136357777",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Hamilton-Beach-Easy-Access-Programmable-Coffee-Maker-46300-mp4",
+    "category": "",
+    "duration": "60",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "60",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357777\/95889\/thumb-17e4422aeeeae9f76710bd3e17e17a28-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136357777\/95889\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357777\/95889\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357777\/95889\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357777\/95889\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357777\/95889\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357777\/95889\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357777\/95889\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 4326.017,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1937",
+        "2501"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 6580.0083
+}

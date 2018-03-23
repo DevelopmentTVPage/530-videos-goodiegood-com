@@ -1,0 +1,103 @@
+{
+    "title": "How To- Troubleshoot the Burr Grinder - KitchenAid",
+    "description": "See how you can easily keep your KitchenAid Burr Grinder functioning properly. Shop now: http:\/\/kitchen.ai\/UU5T0",
+    "referenceId": "946723f5704b2035354cf7a81dba488c",
+    "date_created": "1515023021",
+    "date_modified": "1515026635",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136361826",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "How-To-Troubleshoot-the-Burr-Grinder-KitchenAid-mp4",
+    "category": "",
+    "duration": "58",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "58",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "58",
+        "prettyDuration": "00:00:58",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758799\/canvas\/480\/269\/866578022-046480315.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136361826\/d42e1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136361826\/d42e1\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361826\/d42e1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361826\/d42e1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361826\/d42e1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361826\/d42e1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361826\/d42e1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-07"
+        }
+    },
+    "tvp_profiles": [
+        "9",
+        "16",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 322.5413,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "2124"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 335.32248
+}

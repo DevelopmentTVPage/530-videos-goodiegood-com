@@ -1,0 +1,52 @@
+{
+    "title": "Bossa Scousa",
+    "description": "This video is about Bossa Scousa.",
+    "referenceId": "xSL5a0hz0Lg",
+    "date_created": "1482282571",
+    "date_modified": "1482282571",
+    "tags": null,
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "83106092",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Bossa-Scousa",
+    "category": null,
+    "duration": 233,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Smooth Jazz Sax",
+        "hdvFlag": 1,
+        "description": "This video is about Bossa Scousa.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/xSL5a0hz0Lg\/hqdefault.jpg",
+        "videoId": "xSL5a0hz0Lg",
+        "mediaDuration": 233,
+        "prettyDuration": "00:03:53"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "23"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 100.388885,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1853",
+        "1891"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 6.5690856
+}

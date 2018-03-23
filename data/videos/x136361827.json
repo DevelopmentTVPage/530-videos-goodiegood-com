@@ -1,0 +1,99 @@
+{
+    "title": "How To- Use the Burr Grinder - KitchenAid",
+    "description": "Learn how the Burr Grinder lets you select the grind so you can brew fresh, flavorful coffee. Shop now: http:\/\/kitchen.ai\/UU5T0",
+    "referenceId": "9e75c2bf78be5dfc67ff62b8f1107ffa",
+    "date_created": "1515023026",
+    "date_modified": "1515026682",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136361827",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "How-To-Use-the-Burr-Grinder-KitchenAid-mp4",
+    "category": "",
+    "duration": "64",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "64",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "64",
+        "prettyDuration": "00:01:04",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758799\/canvas\/480\/269\/988889819-046480315.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136361827\/04e45\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136361827\/04e45\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361827\/04e45\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361827\/04e45\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361827\/04e45\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361827\/04e45\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361827\/04e45\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18",
+        "4",
+        "9"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 586.75555,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "2124"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 339.1657
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Gourmia GCG185 Electric Burr Coffee Grinder",
+    "description": "Gourmia GCG185 Electric Burr Coffee Grinder Heavy Duty Stainless Steel Grinding Disc Multi Coarse \/ Fine Settings, 2-18 Cups\nhttps:\/\/www.amazon.com\/Gourmia-GCG185-Electric-Grinding-Settings\/dp\/B01LY9EICV",
+    "referenceId": "db4a816a59ebb9c4bc857afe17a03706",
+    "date_created": "1515023058",
+    "date_modified": "1515023867",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136361832",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Gourmia-GCG185-Electric-Burr-Coffee-Grinder-mp4",
+    "category": "",
+    "duration": "112",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "112",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "112",
+        "prettyDuration": "00:01:52",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136361832\/d636d\/thumb-db4a816a59ebb9c4bc857afe17a03706-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136361832\/d636d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136361832\/d636d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361832\/d636d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361832\/d636d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361832\/d636d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361832\/d636d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361832\/d636d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 3018.7734,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1898"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 18066.625
+}

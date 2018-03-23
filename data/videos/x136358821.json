@@ -1,0 +1,101 @@
+{
+    "title": "Making an Iced Mocha Latte with the Ninja Coffee Bar\u2122",
+    "description": "Greg shows you how easy it is to make a refreshing iced mocha latte, just one of Ninja\u2019s many cold specialty drinks.\n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+    "referenceId": "1a23b8909e0b5d0159735ed9eb17af6d",
+    "date_created": "1515021632",
+    "date_modified": "1515022204",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136358821",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Making-an-Iced-Mocha-Latte-with-the-Ninja-Coffee-Bar-mp4",
+    "category": "",
+    "duration": "113",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "113",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "113",
+        "prettyDuration": "00:01:53",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136358821\/06cb1\/thumb-1a23b8909e0b5d0159735ed9eb17af6d-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136358821\/06cb1\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136358821\/06cb1\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358821\/06cb1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358821\/06cb1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358821\/06cb1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358821\/06cb1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358821\/06cb1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-02-03"
+        }
+    },
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 12212.575,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1898"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 8970.766
+}

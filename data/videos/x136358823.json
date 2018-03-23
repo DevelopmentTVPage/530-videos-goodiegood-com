@@ -1,0 +1,95 @@
+{
+    "title": "Ninja Coffee Bar\u2122 Accessories",
+    "description": "Unique Ninja coffee accessories complement your Ninja Coffee Bar for an indulgent, complete coffeehouse experience. \n\nLearn more about the Ninja Coffee Bar\u2122 at http:\/\/www.ninjacoffeebar.com. \n\nGet recipes for your Ninja Coffee Bar at http:\/\/www.ninjakitchen.com\/recipes.",
+    "referenceId": "84d4b5780e66c8be09fd136f7c6cc523",
+    "date_created": "1515021644",
+    "date_modified": "1515021900",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136358823",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Ninja-Coffee-Bar-Accessories-mp4",
+    "category": "",
+    "duration": "179",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "179",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "179",
+        "prettyDuration": "00:02:59",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136358823\/08437\/thumb-84d4b5780e66c8be09fd136f7c6cc523-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358823\/08437\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358823\/08437\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358823\/08437\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358823\/08437\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358823\/08437\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 8059.5405,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1898"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 8920.558
+}

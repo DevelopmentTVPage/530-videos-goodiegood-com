@@ -1,0 +1,99 @@
+{
+    "title": "Gourmia GCM4500 Coffee Maker With Built In Grinder",
+    "description": "Gourmia GCM4500 Coffee Maker With Built In Grinder, Programmable 10 Cup Automatic Drip, Glass Carafe, LED Display\nhttps:\/\/www.amazon.com\/Gourmia-GCM4500-Grinder-Programmable-Automatic\/dp\/B01M8GA4TN",
+    "referenceId": "86d72e272c8606c38b048111ceffbbc2",
+    "date_created": "1515023073",
+    "date_modified": "1515023669",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136361834",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Gourmia-GCM4500-Coffee-Maker-With-Built-In-Grinder-mp4",
+    "category": "",
+    "duration": "132",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "132",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "132",
+        "prettyDuration": "00:02:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136361834\/43c46\/thumb-86d72e272c8606c38b048111ceffbbc2-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136361834\/43c46\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136361834\/43c46\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361834\/43c46\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361834\/43c46\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361834\/43c46\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361834\/43c46\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361834\/43c46\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 12004.204,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1898",
+        "1937",
+        "1974"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 10698.747
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Life Tastes Better With Coffee - KitchenAid",
+    "description": "Our goal in creating the Siphon Coffee Brewer, Pour Over Coffee Brewer, Precision Press Coffee Maker and Burr Grinder was to bring the coffeehouse experience into the home by automating brewing methods celebrated within coffeehouse culture. We studied the art and science of many craft brewing methods in order to create coffee brewers that deliver the precision and mastery of the best baristas. Now, it\u2019s simple to enjoy an authentic cup of craft coffee at home\u2014because life tastes better with coffee. http:\/\/kitchenaidcraftcoffee.com",
+    "referenceId": "f4432edc02db073c931c40f4daba5a5c",
+    "date_created": "1515023037",
+    "date_modified": "1515023503",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136361828",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Life-Tastes-Better-With-Coffee-KitchenAid-mp4",
+    "category": "",
+    "duration": "221",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "221",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "221",
+        "prettyDuration": "00:03:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136361828\/24281\/thumb-f4432edc02db073c931c40f4daba5a5c-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136361828\/24281\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136361828\/24281\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361828\/24281\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361828\/24281\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361828\/24281\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361828\/24281\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136361828\/24281\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-07"
+        }
+    },
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 10285.215,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1856",
+        "2312"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 6236.953
+}

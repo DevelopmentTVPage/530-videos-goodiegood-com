@@ -1,0 +1,95 @@
+{
+    "title": "Hamilton Beach\u00ae Iced Coffee Maker 40912",
+    "description": "\u2022 Brews delicious iced coffee & tea\n\u2022 2 qt. decorative pitcher\n\u2022 Create delicious iced beverages in under 10 minutes\n\u2022 Dishwasher safe pitcher with lid fits in the refrigerator\n\u2022 Recipes included\n\u2022 Interchangeable coffee and tea filter baskets\n\u2022 Adjustable strength tea basket brews loose or bagged tea\n\u2022 Easy to use:\n- Fill pitcher with ice\n- Add coffee, loose tea, or tea bags\n- Fill reservoir with water, then turn on\n\u2022 Dishwasher safe pitcher with drip-free pouring and refrigerator storage\n\u2022 Tip-resistant base",
+    "referenceId": "02377d5761223c641961d16403e57a56",
+    "date_created": "1515021617",
+    "date_modified": "1515021864",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136358819",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Hamilton-Beach-Iced-Coffee-Maker-40912-mp4",
+    "category": "",
+    "duration": "69",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "69",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "69",
+        "prettyDuration": "00:01:09",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136358819\/98b71\/thumb-02377d5761223c641961d16403e57a56-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358819\/98b71\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358819\/98b71\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358819\/98b71\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358819\/98b71\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136358819\/98b71\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 5816.253,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1898"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 9216.833
+}

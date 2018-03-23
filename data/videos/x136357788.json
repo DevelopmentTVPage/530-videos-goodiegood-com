@@ -1,0 +1,98 @@
+{
+    "title": "Making Iced Tea with your BUNN Home Coffeemaker",
+    "description": "Now that the weather has warmed, perhaps you are looking for drinks to keep you cooled. If you like to enjoy a glass of freshly brewed iced tea, you can easily create this favored beverage with your BUNN home coffeemaker and your favorite \u201cbagged\u201d tea.\n\nFirst, we recommend the use of a separate, dedicated funnel for this purpose, to avoid cross \u2018contamination\u2019 of taste. Further, if you are going to brew tea on a regular basis, you may consider using a separate dedicated carafe. An extra carafe, and funnel, can easily be purchased from our website.\n\nThe process is simple, and involves making a brewed tea concentrate. You need to halve the amount of water recommended for the brew size. If the recipe for your preferred bagged tea says to use eight ounces of water with every bag, then for the purposes of brewing this concentrate while you would still use six bags of tea, but brewed with just twenty-four ounces of water. Let this steep for the normally recommended length of time. Now that you have your tea concentrate, there is one step remaining, and it is the reason for brewing the tea as a concentrate. Pour your concentrate into a container large enough to contain at least twice the volume of your brewed batch. Preferably, the container will have measures along the walls, as the final step is to add enough ice to the brew to double its volume. The tea now is cooled, and ready to be served to your desire, with the fruit or garnish of your choice, sweetened to your preference, over ice, a combination thereof, or simply \u2018straight up\u2019. Enjoy!\n\nIf you have your own favorite brewed iced tea recipes, please feel free to share them with us in the comments!",
+    "referenceId": "8bc64f1ea0a8917c4fb2647e0963c85f",
+    "date_created": "1515013777",
+    "date_modified": "1515016959",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136357788",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Making-Iced-Tea-with-your-BUNN-Home-Coffeemaker-mp4",
+    "category": "",
+    "duration": "115",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "115",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "115",
+        "prettyDuration": "00:01:55",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357788\/ec522\/thumb-8bc64f1ea0a8917c4fb2647e0963c85f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136357788\/ec522\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357788\/ec522\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357788\/ec522\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357788\/ec522\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357788\/ec522\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357788\/ec522\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357788\/ec522\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "14",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 10898.954,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "2007"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 598.40955
+}

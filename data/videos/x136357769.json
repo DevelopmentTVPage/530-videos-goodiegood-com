@@ -1,0 +1,104 @@
+{
+    "title": "Classical Music - Morning Mood (Grieg)",
+    "description": "Perhaps the most famous \"Morning\" song.  Composed by Edvard Grieg (1843-1907)\nBelongs in a class by itself.  \n(It is also known as \"Morgenstimmung.\")\nNo copyright intention.  None of the videos are mine.\nWatch in HD (if possible).\nAnother great morning song is Rossini's \"Morning Song\" (see playlist).",
+    "referenceId": "ae5e87e62d04199d244e1b57960e649d",
+    "date_created": "1515013603",
+    "date_modified": "1515024253",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "10",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136357769",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Classical-Music-Morning-Mood-Grieg-mp4",
+    "category": "",
+    "duration": "255",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "255",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "255",
+        "prettyDuration": "00:04:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357769\/4e479\/thumb-ae5e87e62d04199d244e1b57960e649d-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136357769\/4e479\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357769\/4e479\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357769\/4e479\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357769\/4e479\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357769\/4e479\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357769\/4e479\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357769\/4e479\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-19"
+        }
+    },
+    "tvp_profiles": [
+        "9",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 684.41754,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "2923",
+        "1891",
+        "2557"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 154.37175
+}

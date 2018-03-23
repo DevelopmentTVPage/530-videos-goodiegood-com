@@ -1,0 +1,60 @@
+{
+    "title": "The Secret Behind Nike Air :90",
+    "description": "Caution: May Cause Excessive Performance",
+    "referenceId": "G_6fbaA7xZA",
+    "date_created": "1270485638",
+    "date_modified": "1515460410",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136909146",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "The-Secret-Behind-Nike-Air-90",
+    "category": "",
+    "duration": 90,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/G_6fbaA7xZA\/hqdefault.jpg",
+        "uploadDate": 1270485638,
+        "videoId": "G_6fbaA7xZA",
+        "title": "The Secret Behind Nike Air :90",
+        "description": "Caution: May Cause Excessive Performance",
+        "author": "Nike",
+        "mediaDuration": 90,
+        "prettyDuration": "00:01:30",
+        "views": "30231"
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-02-03"
+        }
+    },
+    "tvp_profiles": [
+        "4",
+        "16",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 172.14531,
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": [
+        "1864",
+        "2023",
+        "2930"
+    ],
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": ""
+}

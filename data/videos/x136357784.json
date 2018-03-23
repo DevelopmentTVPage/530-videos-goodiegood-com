@@ -1,0 +1,99 @@
+{
+    "title": "Keurig\u00ae 2.0 \u2013 Everyone Wants One",
+    "description": "Find out what's better than your friend's new Keurig 2.0 brewer that brews nearly 400 varieties from 60 brands and can make a cup or carafe.",
+    "referenceId": "90224725c2dc8b10c4238a23fadda34c",
+    "date_created": "1515013762",
+    "date_modified": "1515016728",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136357784",
+    "loginId": "1758799",
+    "entityType": "1",
+    "titleTextEncoded": "Keurig-2-0-Everyone-Wants-One-mp4",
+    "category": "",
+    "duration": "15",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "15",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357784\/b9a42\/thumb-90224725c2dc8b10c4238a23fadda34c-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136357784\/b9a42\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357784\/b9a42\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357784\/b9a42\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357784\/b9a42\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357784\/b9a42\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357784\/b9a42\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357784\/b9a42\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "9",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 452.39594,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1864",
+        "2080"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 132.12845
+}
