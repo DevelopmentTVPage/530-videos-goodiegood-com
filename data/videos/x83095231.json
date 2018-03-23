@@ -20,6 +20,8 @@
     "id": "83095231",
     "loginId": "1758799",
     "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "83093936",
     "titleTextEncoded": "BUNN-drip-free-carafe",
     "category": "",
     "duration": 20,
@@ -37,7 +39,14 @@
         "views": "2253"
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-12-17\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-12-17"
+            }
+        }
+    },
     "tvp_profiles": [
         "18"
     ],

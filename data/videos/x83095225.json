@@ -20,6 +20,8 @@
     "id": "83095225",
     "loginId": "1758799",
     "entityType": "1",
+    "sortOrder": "10",
+    "entityIdParent": "83093936",
     "titleTextEncoded": "BUNN-Speed-Brew",
     "category": "",
     "duration": 56,

@@ -1,0 +1,515 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "136357780",
+            "title": "How to Brew Iced Coffee on BUNN ICB",
+            "date_created": "1515013737",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Here is our recipe to properly brew 1 gallon of iced coffee on the BUNN ICB coffee brewer.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "165",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "165",
+                "prettyDuration": "00:02:45",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357780\/3b6f3\/thumb-557414f482b5d7690d41be752a3e68d4-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136357780\/3b6f3\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357780\/3b6f3\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357780\/3b6f3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357780\/3b6f3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357780\/3b6f3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357780\/3b6f3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357780\/3b6f3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093936",
+            "url": "\/bunn\/how-to-brew-iced-coffee-on-bunn-icb-mp4\/83093936-136357780"
+        },
+        {
+            "id": "136357788",
+            "title": "Making Iced Tea with your BUNN Home Coffeemaker",
+            "date_created": "1515013777",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Now that the weather has warmed, perhaps you are looking for drinks to keep you cooled. If you like to enjoy a glass of freshly brewed iced tea, you can easily create this favored beverage with your BUNN home coffeemaker and your favorite \u201cbagged\u201d tea.\n\nFirst, we recommend the use of a separate, dedicated funnel for this purpose, to avoid cross \u2018contamination\u2019 of taste. Further, if you are going to brew tea on a regular basis, you may consider using a separate dedicated carafe. An extra carafe, and funnel, can easily be purchased from our website.\n\nThe process is simple, and involves making a brewed tea concentrate. You need to halve the amount of water recommended for the brew size. If the recipe for your preferred bagged tea says to use eight ounces of water with every bag, then for the purposes of brewing this concentrate while you would still use six bags of tea, but brewed with just twenty-four ounces of water. Let this steep for the normally recommended length of time. Now that you have your tea concentrate, there is one step remaining, and it is the reason for brewing the tea as a concentrate. Pour your concentrate into a container large enough to contain at least twice the volume of your brewed batch. Preferably, the container will have measures along the walls, as the final step is to add enough ice to the brew to double its volume. The tea now is cooled, and ready to be served to your desire, with the fruit or garnish of your choice, sweetened to your preference, over ice, a combination thereof, or simply \u2018straight up\u2019. Enjoy!\n\nIf you have your own favorite brewed iced tea recipes, please feel free to share them with us in the comments!",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "115",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "115",
+                "prettyDuration": "00:01:55",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357788\/ec522\/thumb-8bc64f1ea0a8917c4fb2647e0963c85f-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136357788\/ec522\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357788\/ec522\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357788\/ec522\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357788\/ec522\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357788\/ec522\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357788\/ec522\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357788\/ec522\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093936",
+            "url": "\/bunn\/making-iced-tea-with-your-bunn-home-coffeemaker-mp4\/83093936-136357788"
+        },
+        {
+            "id": "136357781",
+            "title": "How to brew with your BUNN Speed Brew Outdoorsman Camouflage Coffeemaker",
+            "date_created": "1515013748",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Hunters love rituals, often rising well before the sun to prepare their minds, bodies and equipment for a day with nature and the pursuit of game.\n\nAn important part of the ritual that keeps outdoorsmen going is a cup of bold-tasting coffee. Just as hunters are passionate about their hobby, BUNN is equally passionate about making great coffeemakers that deliver a great tasting cup of coffee for every occasion.\n\nThe Speed Brew\u00ae Outdoorsman\u2122 model with its authentic Realtree camouflage design and straightforward functionality is made for the hunter. This model is the newest edition to the BUNN Speed Brew series of coffeemakers  which are the fastest 10-cup home coffeemakers in America.*  Its' reliability has been proven through rigorous quality testing and this workhorse is built to keep up with the demands of an outdoor lifestyle.\n\nThe exclusive commercial style lime-tolerant sprayhead fully saturates coffee grounds in a precise amount of time resulting in great tasting coffee that isn't bitter. And you will get the cleanest pour on the market with the exclusive Drip-Free Glass Carafe with a proprietary lid and spout design that arcs the pour of the coffee into the cup and wicks the coffee dribbles back into the carafe  \n\nThe Outdoorsman is designed and assembled in the USA, is guaranteed with a 3-year warranty, and is backed by an exceptional customer service team from the BUNN headquarters in Springfield, Illinois.\n\nAn old adage wisely states, \u201cIf it ain\u2019t broke, don\u2019t fix it.\u201d BUNN Speed Brew technology has been consistently delivering great coffee to homes since 1972. That\u2019s 45 years of proven performance with thousands of loyal customers. Pair this Limited Edition design with your favorite hobby and enjoy a cup of BUNN-brewed coffee to fuel your next hunt!\n\n Learn more: http:\/\/www.bunn.com\/Outdoorsman",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "61",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "61",
+                "prettyDuration": "00:01:01",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357781\/ad1fc\/thumb-81d22e55ef5f0469b33e8f0b58c835ac-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136357781\/ad1fc\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357781\/ad1fc\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357781\/ad1fc\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357781\/ad1fc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357781\/ad1fc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357781\/ad1fc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357781\/ad1fc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093936",
+            "url": "\/bunn\/how-to-brew-with-your-bunn-speed-brew-outdoorsman-camouflage-coffeemaker-1-mp4\/83093936-136357781"
+        },
+        {
+            "id": "136357782",
+            "title": "How to make Iced Coffee with your BUNN Home Coffeemaker",
+            "date_created": "1515013755",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Summer is here! And it is already hot\u2026 and you are already looking for ways to avoid the heat. However, you still want\/need\/crave your coffee. Well, you can have your \u2018go\u2019 fuel while still keeping cool, by brewing your favorite java as an iced coffee concentrate.  \n\nThe simplest way to make your concentrate is to dole out the same amount of coffee as you would for a regular brew, but use only half the amount of water. So, if you normally brew 10 cups of coffee (50 ounces) with 6 heaping tablespoons of ground coffee, use the same measure of coffee but with just 25 ounces of water.\n\n1)  Pull out the brew funnel from the brewer. Place a paper coffee filter in the funnel. [Use BUNN filters, which are a little taller and will thus help prevent overflow of the grounds. Also, BUNN filters have been carefully designed with just the right porosity to allow for optimal movement of water through the grounds.]\n\n2)  Measure out the amount of ground coffee normally used for a full pot, and place this in the filter. Gently shake the funnel so that the grounds disperse evenly and are leveled. Replace the funnel\n\n3)  Measure out HALF the water normally used when brewing with this amount of ground coffee.\n\n4)   Now pour the measured water into the brewer, and allow the coffee to brew and flow through the funnel until it is completely done dripping. *Ensure that the warmer switch remains off. (If you are using a BT model brewer, there is no warmer switch.)\n\n5) Fill a glass with cubes of ice, and pour in your freshly brewed iced coffee concentrate. [For a bolder taste, use frozen cubes of coffee for your \u201cice\u201d!]\n\nThere is one final note: if you are not planning on immediately enjoying the full batch of iced coffee, then the remainder should be refrigerated in a clear, lidded container. Your iced coffee brew should be consumed within twenty-four hours to ensure optimal freshness.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "115",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "115",
+                "prettyDuration": "00:01:55",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357782\/70da3\/thumb-f94facecb67e4d43a5eb0465116bb67f-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758799\/136357782\/70da3\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357782\/70da3\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357782\/70da3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357782\/70da3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357782\/70da3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357782\/70da3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758799\/136357782\/70da3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "83093936",
+            "url": "\/bunn\/how-to-make-iced-coffee-with-your-bunn-home-coffeemaker-mp4\/83093936-136357782"
+        },
+        {
+            "id": "83095231",
+            "title": "BUNN drip-free carafe",
+            "date_created": "1417800664",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Introducing the BUNN 10 cup Pour-O-Matic\u2122 drip- free carafe.  This new carafe looks great and performs even better.   The exclusive drip-free spout eliminates messes because now when you pour, coffee goes where it should: into the cup and not on your counter. Visit http:\/\/www.bunn.com\/home-products for more information. Show us your pour on Twitter by using hashtag #DripNoMore",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/GBBamr5fbS4\/hqdefault.jpg",
+                "uploadDate": 1417800664,
+                "videoId": "GBBamr5fbS4",
+                "title": "BUNN drip-free carafe",
+                "description": "Introducing the BUNN 10 cup Pour-O-Matic\u2122 drip- free carafe.  This new carafe looks great and performs even better.   The exclusive drip-free spout eliminates messes because now when you pour, coffee goes where it should: into the cup and not on your counter. Visit http:\/\/www.bunn.com\/home-products for more information. Show us your pour on Twitter by using hashtag #DripNoMore",
+                "author": "BUNN",
+                "mediaDuration": 20,
+                "prettyDuration": "00:00:20",
+                "views": "2253"
+            },
+            "parentId": "83093936",
+            "url": "\/bunn\/bunn-drip-free-carafe\/83093936-83095231"
+        },
+        {
+            "id": "83095239",
+            "title": "Transforming Everyday Moments",
+            "date_created": "1413926148",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Visit our website www.bunn.com for more information about BUNN and our complete line of products.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/xN5to-snuTI\/hqdefault.jpg",
+                "uploadDate": 1413926148,
+                "videoId": "xN5to-snuTI",
+                "title": "Transforming Everyday Moments",
+                "description": "Visit our website www.bunn.com for more information about BUNN and our complete line of products.",
+                "author": "BUNN",
+                "mediaDuration": 60,
+                "prettyDuration": "00:01:00",
+                "views": "6151"
+            },
+            "parentId": "83093936",
+            "url": "\/bunn\/transforming-everyday-moments\/83093936-83095239"
+        },
+        {
+            "id": "83095227",
+            "title": "How to Brew Iced Coffee on BUNN ICB",
+            "date_created": "1426017691",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Here is our recipe to properly brew 1 gallon of iced coffee on the BUNN ICB coffee brewer.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/i-4P2ckK830\/hqdefault.jpg",
+                "uploadDate": 1426017691,
+                "videoId": "i-4P2ckK830",
+                "title": "How to Brew Iced Coffee on BUNN ICB",
+                "description": "Here is our recipe to properly brew 1 gallon of iced coffee on the BUNN ICB coffee brewer.",
+                "author": "BUNN",
+                "mediaDuration": 165,
+                "prettyDuration": "00:02:45",
+                "views": "1805"
+            },
+            "parentId": "83093936",
+            "url": "\/bunn\/how-to-brew-iced-coffee-on-bunn-icb\/83093936-83095227"
+        },
+        {
+            "id": "83095212",
+            "title": "BUNN Hot Water on Demand",
+            "date_created": "1456938315",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Hot water is a staple in every type of foodservice operation. From quality beverages to efficient food preparation to reduced labor costs, the value of readily available hot water is invaluable. BUNN offers a full line of plumbed and pourover Hot Water Dispensers to meet your on-demand hot water requirements. \n\nFor solutions to your hot water needs visit: http:\/\/www.bunn.com\/hotwaterondemand",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/g0K7Ot3Vr-w\/hqdefault.jpg",
+                "uploadDate": 1456938315,
+                "videoId": "g0K7Ot3Vr-w",
+                "title": "BUNN Hot Water on Demand",
+                "description": "Hot water is a staple in every type of foodservice operation. From quality beverages to efficient food preparation to reduced labor costs, the value of readily available hot water is invaluable. BUNN offers a full line of plumbed and pourover Hot Water Dispensers to meet your on-demand hot water requirements. \n\nFor solutions to your hot water needs visit: http:\/\/www.bunn.com\/hotwaterondemand",
+                "author": "BUNN",
+                "mediaDuration": 65,
+                "prettyDuration": "00:01:05",
+                "views": "238"
+            },
+            "parentId": "83093936",
+            "url": "\/bunn\/bunn-hot-water-on-demand\/83093936-83095212"
+        },
+        {
+            "id": "83095242",
+            "title": "BUNN\u00ae My Caf\u00e9\u00ae MCU: How It Works",
+            "date_created": "1384873803",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "BUNN\u00ae My Caf\u00e9\u00ae is a convenient single cup brewer that gives you the ultimate brewing flexibility.   You can brew K-Cup\u00ae packs , ground coffee, soft  pods, tea bags and loose tea using My Caf\u00e9.   This video provides an overview on the features of BUNN My Caf\u00e9 MCU.  For more information visit http:\/\/www.bunnathome.com\/products\/single-serve\/my-cafe-mcu. \n\n\nK-Cup\u00ae is a registered trademark of Keurig, Incorporated. BUNN is not affiliated with Keurig, Incorporated.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ikus6fvjLEY\/hqdefault.jpg",
+                "uploadDate": 1384873803,
+                "videoId": "ikus6fvjLEY",
+                "title": "BUNN\u00ae My Caf\u00e9\u00ae MCU: How It Works",
+                "description": "BUNN\u00ae My Caf\u00e9\u00ae is a convenient single cup brewer that gives you the ultimate brewing flexibility.   You can brew K-Cup\u00ae packs , ground coffee, soft  pods, tea bags and loose tea using My Caf\u00e9.   This video provides an overview on the features of BUNN My Caf\u00e9 MCU.  For more information visit http:\/\/www.bunnathome.com\/products\/single-serve\/my-cafe-mcu. \n\n\nK-Cup\u00ae is a registered trademark of Keurig, Incorporated. BUNN is not affiliated with Keurig, Incorporated.",
+                "author": "BUNN",
+                "mediaDuration": 92,
+                "prettyDuration": "00:01:32",
+                "views": "9692"
+            },
+            "parentId": "83093936",
+            "url": "\/bunn\/bunn-my-caf\u00e9-mcu-how-it-works\/83093936-83095242"
+        },
+        {
+            "id": "83095241",
+            "title": "BUNN My Caf\u00e9\u00ae MCO Brewer",
+            "date_created": "1396640680",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "ENGINEERED AND CONSTRUCTED FOR THE OFFICE\nWith the My Caf\u00e9\u00ae MCO brewer from BUNN, you can bring the coffee house environment into the workplace and offer a broad selection of quality beverages. The solid construction provides peace of mind that the equipment will stand up to the demands of repeated daily use.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/F9mgAGUJWLk\/hqdefault.jpg",
+                "uploadDate": 1396640680,
+                "videoId": "F9mgAGUJWLk",
+                "title": "BUNN My Caf\u00e9\u00ae MCO Brewer",
+                "description": "ENGINEERED AND CONSTRUCTED FOR THE OFFICE\nWith the My Caf\u00e9\u00ae MCO brewer from BUNN, you can bring the coffee house environment into the workplace and offer a broad selection of quality beverages. The solid construction provides peace of mind that the equipment will stand up to the demands of repeated daily use.",
+                "author": "BUNN",
+                "mediaDuration": 57,
+                "prettyDuration": "00:00:57",
+                "views": "2105"
+            },
+            "parentId": "83093936",
+            "url": "\/bunn\/bunn-my-caf\u00e9-mco-brewer\/83093936-83095241"
+        },
+        {
+            "id": "83095225",
+            "title": "BUNN\u00ae Speed Brew\u2122",
+            "date_created": "1428952347",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "When you want to give yourself the happiness of delicious coffee comparable to your favorite restaurant or caf\u00e9, the BUNN Speed Brew is the brewer for you.  The newest 10-cup brewer from BUNN combines quick brew technology and contemporary, curved design.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/rcvhQU4UjyQ\/hqdefault.jpg",
+                "uploadDate": 1428952347,
+                "videoId": "rcvhQU4UjyQ",
+                "title": "BUNN\u00ae Speed Brew\u2122",
+                "description": "When you want to give yourself the happiness of delicious coffee comparable to your favorite restaurant or caf\u00e9, the BUNN Speed Brew is the brewer for you.  The newest 10-cup brewer from BUNN combines quick brew technology and contemporary, curved design.",
+                "author": "BUNN",
+                "mediaDuration": 56,
+                "prettyDuration": "00:00:56",
+                "views": "9000"
+            },
+            "parentId": "83093936",
+            "url": "\/bunn\/bunn-speed-brew\/83093936-83095225"
+        },
+        {
+            "id": "83095206",
+            "title": "Making Iced Tea with your BUNN Home Coffeemaker",
+            "date_created": "1471023705",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Now that the weather has warmed, perhaps you are looking for drinks to keep you cooled. If you like to enjoy a glass of freshly brewed iced tea, you can easily create this favored beverage with your BUNN home coffeemaker and your favorite \u201cbagged\u201d tea.\n\nFirst, we recommend the use of a separate, dedicated funnel for this purpose, to avoid cross \u2018contamination\u2019 of taste. Further, if you are going to brew tea on a regular basis, you may consider using a separate dedicated carafe. An extra carafe, and funnel, can easily be purchased from our website.\n\nThe process is simple, and involves making a brewed tea concentrate. You need to halve the amount of water recommended for the brew size. If the recipe for your preferred bagged tea says to use eight ounces of water with every bag, then for the purposes of brewing this concentrate while you would still use six bags of tea, but brewed with just twenty-four ounces of water. Let this steep for the normally recommended length of time. Now that you have your tea concentrate, there is one step remaining, and it is the reason for brewing the tea as a concentrate. Pour your concentrate into a container large enough to contain at least twice the volume of your brewed batch. Preferably, the container will have measures along the walls, as the final step is to add enough ice to the brew to double its volume. The tea now is cooled, and ready to be served to your desire, with the fruit or garnish of your choice, sweetened to your preference, over ice, a combination thereof, or simply \u2018straight up\u2019. Enjoy!\n\nIf you have your own favorite brewed iced tea recipes, please feel free to share them with us in the comments!",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/cW7v9IrEknY\/hqdefault.jpg",
+                "uploadDate": 1471023705,
+                "videoId": "cW7v9IrEknY",
+                "title": "Making Iced Tea with your BUNN Home Coffeemaker",
+                "description": "Now that the weather has warmed, perhaps you are looking for drinks to keep you cooled. If you like to enjoy a glass of freshly brewed iced tea, you can easily create this favored beverage with your BUNN home coffeemaker and your favorite \u201cbagged\u201d tea.\n\nFirst, we recommend the use of a separate, dedicated funnel for this purpose, to avoid cross \u2018contamination\u2019 of taste. Further, if you are going to brew tea on a regular basis, you may consider using a separate dedicated carafe. An extra carafe, and funnel, can easily be purchased from our website.\n\nThe process is simple, and involves making a brewed tea concentrate. You need to halve the amount of water recommended for the brew size. If the recipe for your preferred bagged tea says to use eight ounces of water with every bag, then for the purposes of brewing this concentrate while you would still use six bags of tea, but brewed with just twenty-four ounces of water. Let this steep for the normally recommended length of time. Now that you have your tea concentrate, there is one step remaining, and it is the reason for brewing the tea as a concentrate. Pour your concentrate into a container large enough to contain at least twice the volume of your brewed batch. Preferably, the container will have measures along the walls, as the final step is to add enough ice to the brew to double its volume. The tea now is cooled, and ready to be served to your desire, with the fruit or garnish of your choice, sweetened to your preference, over ice, a combination thereof, or simply \u2018straight up\u2019. Enjoy!\n\nIf you have your own favorite brewed iced tea recipes, please feel free to share them with us in the comments!",
+                "author": "BUNN",
+                "mediaDuration": 114,
+                "prettyDuration": "00:01:54",
+                "views": "178"
+            },
+            "parentId": "83093936",
+            "url": "\/bunn\/making-iced-tea-with-your-bunn-home-coffeemaker\/83093936-83095206"
+        },
+        {
+            "id": "83095198",
+            "title": "How to brew with your BUNN Speed Brew Outdoorsman Camouflage Coffeemaker",
+            "date_created": "1475870544",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "Hunters love rituals, often rising well before the sun to prepare their minds, bodies and equipment for a day with nature and the pursuit of game.\n\nAn important part of the ritual that keeps outdoorsmen going is a cup of bold-tasting coffee. Just as hunters are passionate about their hobby, BUNN is equally passionate about making great coffeemakers that deliver a great tasting cup of coffee for every occasion.\n\nThe Speed Brew\u00ae Outdoorsman\u2122 model with its authentic Realtree camouflage design and straightforward functionality is made for the hunter. This model is the newest edition to the BUNN Speed Brew series of coffeemakers  which are the fastest 10-cup home coffeemakers in America.*  Its' reliability has been proven through rigorous quality testing and this workhorse is built to keep up with the demands of an outdoor lifestyle.\n\nThe exclusive commercial style lime-tolerant sprayhead fully saturates coffee grounds in a precise amount of time resulting in great tasting coffee that isn't bitter. And you will get the cleanest pour on the market with the exclusive Drip-Free Glass Carafe with a proprietary lid and spout design that arcs the pour of the coffee into the cup and wicks the coffee dribbles back into the carafe  \n\nThe Outdoorsman is designed and assembled in the USA, is guaranteed with a 3-year warranty, and is backed by an exceptional customer service team from the BUNN headquarters in Springfield, Illinois.\n\nAn old adage wisely states, \u201cIf it ain\u2019t broke, don\u2019t fix it.\u201d BUNN Speed Brew technology has been consistently delivering great coffee to homes since 1972. That\u2019s 45 years of proven performance with thousands of loyal customers. Pair this Limited Edition design with your favorite hobby and enjoy a cup of BUNN-brewed coffee to fuel your next hunt!\n\n Learn more: http:\/\/www.bunn.com\/Outdoorsman",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/eXp2CBddwto\/hqdefault.jpg",
+                "uploadDate": 1475870544,
+                "videoId": "eXp2CBddwto",
+                "title": "How to brew with your BUNN Speed Brew Outdoorsman Camouflage Coffeemaker",
+                "description": "Hunters love rituals, often rising well before the sun to prepare their minds, bodies and equipment for a day with nature and the pursuit of game.\n\nAn important part of the ritual that keeps outdoorsmen going is a cup of bold-tasting coffee. Just as hunters are passionate about their hobby, BUNN is equally passionate about making great coffeemakers that deliver a great tasting cup of coffee for every occasion.\n\nThe Speed Brew\u00ae Outdoorsman\u2122 model with its authentic Realtree camouflage design and straightforward functionality is made for the hunter. This model is the newest edition to the BUNN Speed Brew series of coffeemakers  which are the fastest 10-cup home coffeemakers in America.*  Its' reliability has been proven through rigorous quality testing and this workhorse is built to keep up with the demands of an outdoor lifestyle.\n\nThe exclusive commercial style lime-tolerant sprayhead fully saturates coffee grounds in a precise amount of time resulting in great tasting coffee that isn't bitter. And you will get the cleanest pour on the market with the exclusive Drip-Free Glass Carafe with a proprietary lid and spout design that arcs the pour of the coffee into the cup and wicks the coffee dribbles back into the carafe  \n\nThe Outdoorsman is designed and assembled in the USA, is guaranteed with a 3-year warranty, and is backed by an exceptional customer service team from the BUNN headquarters in Springfield, Illinois.\n\nAn old adage wisely states, \u201cIf it ain\u2019t broke, don\u2019t fix it.\u201d BUNN Speed Brew technology has been consistently delivering great coffee to homes since 1972. That\u2019s 45 years of proven performance with thousands of loyal customers. Pair this Limited Edition design with your favorite hobby and enjoy a cup of BUNN-brewed coffee to fuel your next hunt!\n\n Learn more: http:\/\/www.bunn.com\/Outdoorsman",
+                "author": "BUNN",
+                "mediaDuration": 61,
+                "prettyDuration": "00:01:01",
+                "views": "135"
+            },
+            "parentId": "83093936",
+            "url": "\/bunn\/how-to-brew-with-your-bunn-speed-brew-outdoorsman-camouflage-coffeemaker\/83093936-83095198"
+        },
+        {
+            "id": "83095201",
+            "title": "BUNN exclusive drip-free carafe",
+            "date_created": "1473976142",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "The exclusive BUNN drip-free carafe delivers the cleanest pour on the market with a proprietary lid and spout design that\narcs the coffee into the cup and wicks the rest back\ninto the carafe.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/qu7QYgbeFqU\/hqdefault.jpg",
+                "uploadDate": 1473976142,
+                "videoId": "qu7QYgbeFqU",
+                "title": "BUNN exclusive drip-free carafe",
+                "description": "The exclusive BUNN drip-free carafe delivers the cleanest pour on the market with a proprietary lid and spout design that\narcs the coffee into the cup and wicks the rest back\ninto the carafe.",
+                "author": "BUNN",
+                "mediaDuration": 26,
+                "prettyDuration": "00:00:26",
+                "views": "175"
+            },
+            "parentId": "83093936",
+            "url": "\/bunn\/bunn-exclusive-drip-free-carafe\/83093936-83095201"
+        },
+        {
+            "id": "83095203",
+            "title": "Hot to make hot coffee with no power using your BUNN coffeemaker",
+            "date_created": "1472735856",
+            "loginId": "1758799",
+            "tags": "",
+            "description": "So, with a crack of thunder (or the bang of an overloaded transformer), the power to your home has just gone out. If one of the first thoughts that races through your mind is \u201cI wish I had brewed that pot of coffee before this happened\u201d, and you happen to be the proud owner and regular user of a traditional BUNN \u201chome\u201d brewer\u2026 then relax, you can still have your fresh cup of java.\n\nThese units begin brewing as soon as cold water is poured into the reservoir at the top of the machine, and deliver a fresh pot of piping hot coffee in three to four minutes. These BUNN home brewers are able to do this because they maintain a tank full of water heated to brewing temperature, ready to \u201cgo\u201d whenever you are.\n\nSo, despite the power being now out, that tank of hot water is still there ready to work for you. But, if you have company over, and they are not familiar with the workings of the BUNN brewer, enjoy yourself a bit more. Ask if anyone else wants a cup of coffee, and wait for the reactions to come across, with that certain one person who will surely remind you that the power is out.\n\nAt this point, if it is daylight and your coffee brewer and preparation area is well lit, then make a pot of coffee just as you normally would. If it is nighttime, then grab a flashlight first. If you brew into a glass decanter, then once the brew cycle is complete, you may wish to transfer your coffee into a thermally insulated device (or two or three). If your brewer is equipped with a thermal carafe, then of course you are already good to go. Now, with a bit of luck, shortly after you have savored the last sip of your fresh home brew, the power will be back on. However, regardless, you will now be personally better energized to get on with whatever the day (or night) now holds ahead for you.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/DINClB3BkKk\/hqdefault.jpg",
+                "uploadDate": 1472735856,
+                "videoId": "DINClB3BkKk",
+                "title": "Hot to make hot coffee with no power using your BUNN coffeemaker",
+                "description": "So, with a crack of thunder (or the bang of an overloaded transformer), the power to your home has just gone out. If one of the first thoughts that races through your mind is \u201cI wish I had brewed that pot of coffee before this happened\u201d, and you happen to be the proud owner and regular user of a traditional BUNN \u201chome\u201d brewer\u2026 then relax, you can still have your fresh cup of java.\n\nThese units begin brewing as soon as cold water is poured into the reservoir at the top of the machine, and deliver a fresh pot of piping hot coffee in three to four minutes. These BUNN home brewers are able to do this because they maintain a tank full of water heated to brewing temperature, ready to \u201cgo\u201d whenever you are.\n\nSo, despite the power being now out, that tank of hot water is still there ready to work for you. But, if you have company over, and they are not familiar with the workings of the BUNN brewer, enjoy yourself a bit more. Ask if anyone else wants a cup of coffee, and wait for the reactions to come across, with that certain one person who will surely remind you that the power is out.\n\nAt this point, if it is daylight and your coffee brewer and preparation area is well lit, then make a pot of coffee just as you normally would. If it is nighttime, then grab a flashlight first. If you brew into a glass decanter, then once the brew cycle is complete, you may wish to transfer your coffee into a thermally insulated device (or two or three). If your brewer is equipped with a thermal carafe, then of course you are already good to go. Now, with a bit of luck, shortly after you have savored the last sip of your fresh home brew, the power will be back on. However, regardless, you will now be personally better energized to get on with whatever the day (or night) now holds ahead for you.",
+                "author": "BUNN",
+                "mediaDuration": 70,
+                "prettyDuration": "00:01:10",
+                "views": "270"
+            },
+            "parentId": "83093936",
+            "url": "\/bunn\/hot-to-make-hot-coffee-with-no-power-using-your-bunn-coffeemaker\/83093936-83095203"
+        }
+    ]
+}
