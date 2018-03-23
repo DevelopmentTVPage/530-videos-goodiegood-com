@@ -1,0 +1,105 @@
+{
+    "title": "How To Apply Eyeliner - Hacks, Tips & Tricks for Beginners!",
+    "description": "How To Apply Eyeliner - Hacks, Tips & Tricks for Beginners!\n\nHey friends! Today I wanted to break down eyeliner application and make it super easy to follow so you can easily achieve winged liner for any occasion! Ask me any questions below and subscribe so you don't miss out on more videos like this one!",
+    "referenceId": "7e2796b962000ad91511ac59a62859ea",
+    "date_created": "1515111776",
+    "date_modified": "1516087343",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "62",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136596629",
+    "loginId": "1758799",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "66133905",
+    "titleTextEncoded": "How-To-Apply-Eyeliner-Hacks-Tips-Tricks-for-Beginners-mp4",
+    "category": "",
+    "duration": "1139",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1139",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "1139",
+        "prettyDuration": "00:18:59",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758799\/canvas\/1280\/717\/455034540-021280719.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136596629\/902d2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136596629\/902d2\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136596629\/902d2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136596629\/902d2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136596629\/902d2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136596629\/902d2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136596629\/902d2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-03-11"
+        }
+    },
+    "tvp_profiles": [
+        "18",
+        "4",
+        "11"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 13291.108,
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": [
+        "2124"
+    ],
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": 9322.464
+}

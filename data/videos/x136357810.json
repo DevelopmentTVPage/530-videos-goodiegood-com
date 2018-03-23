@@ -1,0 +1,103 @@
+{
+    "title": "Introducing the Precision Press Coffee Maker - KitchenAid",
+    "description": "We designed the KitchenAid Precision Press Coffee Maker to brew authentic French press coffee at home. Its integrated scale makes it easy to measure the coffee and water, while the timer ensures proper steep time. The stainless steel dual-wall construction of the carafe provides better insulation for hotter coffee. The result is a bold, full-bodied cup of craft coffee made right at your countertop. Learn more: http:\/\/kitchen.ai\/URA0F",
+    "referenceId": "8820618d1d2cabf225cf0e5a180fef55",
+    "date_created": "1515018150",
+    "date_modified": "1515026956",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136357810",
+    "loginId": "1758799",
+    "entityType": "1",
+    "sortOrder": "11",
+    "entityIdParent": "66133905",
+    "titleTextEncoded": "Introducing-the-Precision-Press-Coffee-Maker-KitchenAid-mp4",
+    "category": "",
+    "duration": "34",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "34",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "34",
+        "prettyDuration": "00:00:34",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758799\/canvas\/480\/269\/804626156-046480315.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136357810\/1a030\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357810\/1a030\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357810\/1a030\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357810\/1a030\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357810\/1a030\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357810\/1a030\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357810\/1a030\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-25"
+        }
+    },
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 7920.3315,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1898"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 14664.095
+}

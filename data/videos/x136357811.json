@@ -1,0 +1,103 @@
+{
+    "title": "Mr. Coffee\u00ae Optimal Brew",
+    "description": "Engineered for the art of brewing deep, rich, better-tasting coffee, this coffee maker is designed for coffee connoisseurs who sacrifice nothing when it comes to the optimal coffee experience.",
+    "referenceId": "cc1898f6117ef3022152da9931b57765",
+    "date_created": "1515018155",
+    "date_modified": "1515018787",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "69",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136357811",
+    "loginId": "1758799",
+    "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "66133905",
+    "titleTextEncoded": "Mr-Coffee-Optimal-Brew-1-mp4",
+    "category": "",
+    "duration": "52",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "52",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "52",
+        "prettyDuration": "00:00:52",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357811\/f8671\/thumb-cc1898f6117ef3022152da9931b57765-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136357811\/f8671\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357811\/f8671\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357811\/f8671\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357811\/f8671\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357811\/f8671\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357811\/f8671\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357811\/f8671\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-02-03"
+        }
+    },
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 828.1016,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1926"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 379.61346
+}

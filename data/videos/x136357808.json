@@ -1,0 +1,103 @@
+{
+    "title": "Gourmia GDK290 Electric Glass Tea Infuser",
+    "description": "Gourmia GDK290 Electric Glass Tea Kettle With Built In Precise Steeping Tea Infuser, Programmable Time & Temperature Pedestal Control Panel, 2 Quarts\nhttps:\/\/www.amazon.com\/Gourmia-GDK290-Electric-Programmable-Temperature\/dp\/B01M4Q4K23",
+    "referenceId": "7dc0e70218cd7f6495768c6d63534b20",
+    "date_created": "1515018143",
+    "date_modified": "1515018504",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136357808",
+    "loginId": "1758799",
+    "entityType": "1",
+    "sortOrder": "10",
+    "entityIdParent": "66133905",
+    "titleTextEncoded": "Gourmia-GDK290-Electric-Glass-Tea-Infuser-mp4",
+    "category": "",
+    "duration": "138",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "138",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "138",
+        "prettyDuration": "00:02:18",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357808\/1ecc5\/thumb-7dc0e70218cd7f6495768c6d63534b20-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136357808\/1ecc5\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357808\/1ecc5\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357808\/1ecc5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357808\/1ecc5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357808\/1ecc5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357808\/1ecc5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357808\/1ecc5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-02-15"
+        }
+    },
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 11393.657,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1898"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 17108.773
+}

@@ -1,0 +1,104 @@
+{
+    "title": "Mr. Coffee Cafe Barista - First Use",
+    "description": "Be your own Barista! Enjoy bold espressos, rich cappuccinos and decadent lattes in one simple touch with the Mr. Coffee\u00ae Caf\u00e9 Barista 15-bar pump espresso maker.",
+    "referenceId": "001bff0f66ef68504610a992db4ef373",
+    "date_created": "1515013784",
+    "date_modified": "1515014592",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136357789",
+    "loginId": "1758799",
+    "entityType": "1",
+    "sortOrder": "14",
+    "entityIdParent": "66133905",
+    "titleTextEncoded": "Mr-Coffee-Cafe-Barista-First-Use-mp4",
+    "category": "",
+    "duration": "129",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "129",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "129",
+        "prettyDuration": "00:02:09",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357789\/332f9\/thumb-001bff0f66ef68504610a992db4ef373-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136357789\/332f9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357789\/332f9\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357789\/332f9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357789\/332f9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357789\/332f9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357789\/332f9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357789\/332f9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-03-11"
+        }
+    },
+    "tvp_profiles": [
+        "14",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 4807.3257,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1898"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 570.06177
+}

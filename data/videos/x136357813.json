@@ -1,0 +1,105 @@
+{
+    "title": "Perfecting your Iced Coffee",
+    "description": "Take advantage of the Ninja Coffee Bar\u2122 brewer\u2019s Over-Ice Brew by using the right amount of the right ice. \n\nFor more information, visit http:\/\/bit.ly\/2cQl07J",
+    "referenceId": "8df45185506b69ef0d590c04ae2bd786",
+    "date_created": "1515018160",
+    "date_modified": "1515026544",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136357813",
+    "loginId": "1758799",
+    "entityType": "1",
+    "sortOrder": "12",
+    "entityIdParent": "66133905",
+    "titleTextEncoded": "Perfecting-your-Iced-Coffee-mp4",
+    "category": "",
+    "duration": "27",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "27",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "27",
+        "prettyDuration": "00:00:27",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758799\/canvas\/480\/269\/189307651-046480315.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136357813\/1d00a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357813\/1d00a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357813\/1d00a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357813\/1d00a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357813\/1d00a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357813\/1d00a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357813\/1d00a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-02-03"
+        }
+    },
+    "tvp_profiles": [
+        "18",
+        "25",
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 683.3216,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1898"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 449.278
+}

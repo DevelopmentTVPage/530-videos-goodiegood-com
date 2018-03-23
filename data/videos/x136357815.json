@@ -1,0 +1,103 @@
+{
+    "title": "Gourmia GCM7000 Multi Capsule Coffee Espresso Machine",
+    "description": "Gourmia GCM7000 Multi Capsule Coffee Espresso Machine Compatible Cartridges for Pods by Nespresso, Verismo, Fresh Ground Espresso & More, Programmable Temperature and Shot Size\nhttps:\/\/www.amazon.com\/dp\/B01M8PJTMG",
+    "referenceId": "528f243820ea9d4ce19b423ab9d3fa19",
+    "date_created": "1515018181",
+    "date_modified": "1515018542",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "product_category": null,
+    "video_type": null,
+    "VV_VI": "7",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136357815",
+    "loginId": "1758799",
+    "entityType": "1",
+    "sortOrder": "9",
+    "entityIdParent": "66133905",
+    "titleTextEncoded": "Gourmia-GCM7000-Multi-Capsule-Coffee-Espresso-Machine-mp4",
+    "category": "",
+    "duration": "123",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "123",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "123",
+        "prettyDuration": "00:02:03",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758799\/136357815\/46782\/thumb-528f243820ea9d4ce19b423ab9d3fa19-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758799\/136357815\/46782\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758799\/136357815\/46782\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357815\/46782\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357815\/46782\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357815\/46782\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357815\/46782\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758799\/136357815\/46782\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-02-03"
+        }
+    },
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 6578.716,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": [
+        "1898"
+    ],
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": 16090.534
+}
