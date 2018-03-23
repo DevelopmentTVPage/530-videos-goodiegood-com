@@ -10,6 +10,16 @@
         "loginId": "1758799",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "goodiegood.com"
+        "cookiedomain": "goodiegood.com",
+        "player": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter"
+                ],
+                "domain": "videos.goodiegood.com"
+            }
+        }
     }
 }
