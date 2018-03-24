@@ -16,7 +16,9 @@
                 "enabled": true,
                 "networks": [
                     "facebook",
-                    "twitter"
+                    "twitter",
+                    "pinterest",
+                    "google-plus"
                 ],
                 "domain": "videos.goodiegood.com"
             },
