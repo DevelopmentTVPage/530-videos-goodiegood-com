@@ -19,6 +19,9 @@
                     "twitter"
                 ],
                 "domain": "videos.goodiegood.com"
+            },
+            "playback": {
+                "autonext": true
             }
         }
     }
