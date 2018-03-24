@@ -11,13 +11,12 @@
         "maxAds": 100,
         "adInterval": 0
     },
-    "preload": true,
+    "preload": false,
     "sharing": {
         "enabled": true,
         "networks": [
             "facebook",
             "twitter",
-            "pinterest",
             "linkedin",
             "email"
         ],
