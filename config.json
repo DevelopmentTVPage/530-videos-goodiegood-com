@@ -25,6 +25,18 @@
             "playback": {
                 "autonext": true
             }
+        },
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "videos.goodiegood.com"
+            }
         }
     }
 }
