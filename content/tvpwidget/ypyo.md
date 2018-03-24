@@ -13,12 +13,11 @@
     },
     "preload": true,
     "sharing": {
-        "enabled": false,
+        "enabled": true,
         "networks": [
             "facebook",
             "twitter",
             "pinterest",
-            "google-plus",
             "linkedin",
             "email"
         ],
